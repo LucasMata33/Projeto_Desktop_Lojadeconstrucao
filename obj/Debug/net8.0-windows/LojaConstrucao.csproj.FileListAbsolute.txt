@@ -1,0 +1,43 @@
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\bin\Debug\net8.0-windows\LojaConstrucao.exe
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\bin\Debug\net8.0-windows\LojaConstrucao.deps.json
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\bin\Debug\net8.0-windows\LojaConstrucao.runtimeconfig.json
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\bin\Debug\net8.0-windows\LojaConstrucao.dll
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\bin\Debug\net8.0-windows\LojaConstrucao.pdb
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\obj\Debug\net8.0-windows\LojaConstrucao.csproj.AssemblyReference.cache
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\obj\Debug\net8.0-windows\LojaConstrucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\obj\Debug\net8.0-windows\LojaConstrucao.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\obj\Debug\net8.0-windows\LojaConstrucao.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\obj\Debug\net8.0-windows\LojaConstrucao.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\obj\Debug\net8.0-windows\LojaCons.8BBD6D30.Up2Date
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\obj\Debug\net8.0-windows\LojaConstrucao.dll
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\obj\Debug\net8.0-windows\refint\LojaConstrucao.dll
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\obj\Debug\net8.0-windows\LojaConstrucao.pdb
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\obj\Debug\net8.0-windows\LojaConstrucao.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\LojaConstrucao\LojaConstrucao\obj\Debug\net8.0-windows\ref\LojaConstrucao.dll
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\bin\Debug\net8.0-windows\LojaConstrucao.exe
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\bin\Debug\net8.0-windows\LojaConstrucao.deps.json
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\bin\Debug\net8.0-windows\LojaConstrucao.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\bin\Debug\net8.0-windows\LojaConstrucao.dll
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\bin\Debug\net8.0-windows\LojaConstrucao.pdb
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\obj\Debug\net8.0-windows\LojaConstrucao.csproj.AssemblyReference.cache
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\obj\Debug\net8.0-windows\LojaConstrucao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\obj\Debug\net8.0-windows\LojaConstrucao.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\obj\Debug\net8.0-windows\LojaConstrucao.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\obj\Debug\net8.0-windows\LojaConstrucao.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\obj\Debug\net8.0-windows\LojaCons.8BBD6D30.Up2Date
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\obj\Debug\net8.0-windows\LojaConstrucao.dll
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\obj\Debug\net8.0-windows\refint\LojaConstrucao.dll
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\obj\Debug\net8.0-windows\LojaConstrucao.pdb
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\obj\Debug\net8.0-windows\LojaConstrucao.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\obj\Debug\net8.0-windows\ref\LojaConstrucao.dll
+C:\Users\Lucas\OneDrive\Documentos\Projeto Loja de Construção\LojaConstrucao\bin\Debug\net8.0-windows\Data\DatabaseHelper.cs

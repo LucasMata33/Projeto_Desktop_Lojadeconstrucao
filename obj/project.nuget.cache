@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6jfir1rxxog=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lucas\\OneDrive\\Documentos\\Projeto Loja de Construção\\LojaConstrucao\\LojaConstrucao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}
