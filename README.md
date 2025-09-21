@@ -18,7 +18,7 @@ Desenvolvi um Sistema **desktop basico** para gerenciamento de loja de materiais
 ---
 
 ## 🖥️ Demonstração Visual
-*(imagens ou GIF mostrando o fluxo de login → menu → cadastro de clientes/produtos → vendas)*  
+*(GIF mostrando o fluxo de login → menu → cadastro de clientes/produtos → vendas)*  
 
 ![Gif](screenshots/programaRUN.gif)
 ![Tela Inicial](screenshots/menu.png)  
@@ -52,7 +52,7 @@ Desenvolvi um Sistema **desktop basico** para gerenciamento de loja de materiais
 ---
 
 ## 📂 Estrutura do Projeto
-
+```bash
 LojaConstrucao/
 ├── Program.cs # Ponto de entrada
 ├── LoginForm.cs # Tela de autenticação
@@ -70,7 +70,7 @@ LojaConstrucao/
 ├── Forms/
 │ └── ProdutoForm.cs # Formulário de produtos
 └── logs/ # Diretório de logs (auto-gerado)
-
+```
 
 ---
 
@@ -80,51 +80,40 @@ LojaConstrucao/
 
 ### Método 1 - Visual Studio
 ```bash
-git clone https://github.com/seu-usuario/sistema-loja-construcao.git
+git clone https://github.com/LucasMata33/Projeto_Desktop_Lojadeconstrucao.git
 cd sistema-loja-construcao
 Abra no Visual Studio 2022
-
 Restaure os pacotes NuGet
-
 Pressione F5 para rodar
 ```
 
 ## Método 2 - Linha de Comando
-bash
+```bash
 Copiar código
 dotnet restore
 dotnet build
 dotnet run
----
+```
 
 ## Método 3 - Script Automatizado
+```bash
 Execute o arquivo executar.bat
 
 🔑 Credenciais de Teste
 Usuário: admin
-
 Senha: admin123
 
 Criados automaticamente na primeira execução.
+```
 ---
 
-📊 Logs
-pgsql
-Copiar código
-logs/
-├── error.log       # Erros e informações gerais
-└── security.log    # Tentativas de login e eventos de segurança
-📌 Versionamento
-v1.0 → Funcionalidades básicas
-
-v2.0 → Melhorias de segurança e validações
-
-v2.1 → Correções de compilação e atualização para .NET 8.0
-
-📜 Licença
+## 📜 Licença
 Projeto sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-📬 Contato
-👤 Lucas Galdino da Mata
-📧 seu-email@exemplo.com
-🔗 LinkedIn | GitHub
+## 📬 Contato
+**Lucas Galdino da Mata**
+📧 lucasgaldino33@hotmail.com 
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-galdino-da-mata-6834621a4/)
+📞 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521966369431?text=Olá%20Lucas,%20vim%20pelo%20GitHub!)
+
+
